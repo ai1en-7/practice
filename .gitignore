@@ -1,0 +1,6 @@
+# Игнорировать файлы со словом index кроме html
+index*
+!index.html
+# Игнорировать директорию 
+secretinfo/*
+!secretinfo/password.txt
